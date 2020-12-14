@@ -1,0 +1,181 @@
+{
+    "total": 11,
+    "pageNumber": 1,
+    "pageSize": 10,
+    "recordStart": 1,
+    "recordEnd": 10,
+    "previousPage": 0,
+    "nextPage": 2,
+    "assetData": [
+        {
+            "id": "0001",
+            "name": "TP-1",
+            "description": "12\" Riser",
+            "icon": "testPost",
+            "image": "https://www.google.com/something-full.jpg",
+            "state": "Active",
+            "status": {
+                "type": "success", 
+                "text" : "Normal"
+            },
+            "type": "Test Post",
+            "typeInfo": "TBD",
+            "location": "",
+            "lat": "53.78021",
+            "long": "-112.90138"
+        },
+        {
+            "id": "0002",
+            "name": "TP-2",
+            "description": "12\" (White) TP",
+            "icon": "testPost",
+            "image": "https://www.google.com/something-full.jpg",
+            "state": "Active",
+            "status": {
+                "type": "success", 
+                "text" : "Normal"
+            },
+            "type": "Test Post",
+            "typeInfo": "TBD",
+            "location": "",
+            "lat": "53.78154",
+            "long": "-112.92597"
+        },
+        {
+            "id": "0003",
+            "name": "TP-3",
+            "description": "12\" (White) #3",
+            "icon": "testPost",
+            "image": "https://www.google.com/something-full.jpg",
+            "state": "Active",
+            "status": {
+                "type": "success", 
+                "text" : "Normal"
+            },
+            "type": "Test Post",
+            "typeInfo": "TBD",
+            "location": "",
+            "lat": "53.79014",
+            "long": "-112.96055"
+        },
+        {
+            "id": "0004",
+            "name": "TP-1",
+            "description": "12\" Riser",
+            "icon": "testPost",
+            "image": "https://www.google.com/something-full.jpg",
+            "state": "Active",
+            "status": {
+                "type": "warn", 
+                "text" : "Alert"
+            },
+            "type": "Test Post",
+            "typeInfo": "TBD",
+            "location": "IPL Meter Station",
+            "lat": "",
+            "long": ""
+        },
+        {
+            "id": "0005",
+            "name": "TP-12",
+            "description": "12\" Black lead Black Fink",
+            "icon": "testPost",
+            "image": "https://www.google.com/something-full.jpg",
+            "state": "Active",
+            "status": {
+                "type": "notice", 
+                "text" : "Warning"
+            },
+            "type": "Test Post",
+            "typeInfo": "TBD",
+            "location": "",
+            "lat": "53.81802",
+            "long": "-112.99960"
+        },
+        {
+            "id": "0006",
+            "name": "TP-5",
+            "description": "12\" (White)",
+            "icon": "testPost",
+            "image": "https://www.google.com/something-full.jpg",
+            "state": "Active",
+            "status": {
+                "type": "notice", 
+                "text" : "Warning"
+            },
+            "type": "Test Post",
+            "typeInfo": "TBD",
+            "location": "",
+            "lat": "53.81091",
+            "long": "-112.97545"
+        },
+        {
+            "id": "0007",
+            "name": "TP-7",
+            "description": "12\" (White)",
+            "icon": "testPost",
+            "image": "https://www.google.com/something-full.jpg",
+            "state": "Active",
+            "status": {
+                "type": "success", 
+                "text" : "Normal"
+            },
+            "type": "Test Post",
+            "typeInfo": "TBD",
+            "location": "",
+            "lat": "",
+            "long": ""
+        },
+        {
+            "id": "0008",
+            "name": "TP-8",
+            "description": "12\" (White)",
+            "icon": "testPost",
+            "image": "https://www.google.com/something-full.jpg",
+            "state": "Active",
+            "status": {
+                "type": "success", 
+                "text" : "Normal"
+            },
+            "type": "Test Post",
+            "typeInfo": "TBD",
+            "location": "",
+            "lat": "",
+            "long": ""
+        },
+        {
+            "id": "0009",
+            "name": "TP-9",
+            "description": "12\" (White)",
+            "icon": "testPost",
+            "image": "https://www.google.com/something-full.jpg",
+            "state": "Active",
+            "status": {
+                "type": "success", 
+                "text" : "Normal"
+            },
+            "type": "Test Post",
+            "typeInfo": "TBD",
+            "location": "",
+            "lat": "",
+            "long": ""
+        },
+        {
+            "id": "0010",
+            "name": "TP-10",
+            "description": "12\" Condensate (White)",
+            "icon": "rectifier",
+            "image": "https://www.google.com/something-full.jpg",
+            "state": "Active",
+            "status": {
+                "type": "success", 
+                "text" : "Normal"
+            },
+            "type": "rectifier",
+            "typeInfo": "TBD",
+            "location": "",
+            "lat": "",
+            "long": ""
+        }
+    ]
+}
